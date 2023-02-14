@@ -1,13 +1,7 @@
-body {
-    background-color:red
-    }
-
 @font-face {
 font-family: 'FluidSans';
-src: url('./font/FluidSans-Regular.ttf') format('truetypefont')
-
+src: url('./FluidSans-Regular.ttf') format('truetypefont')
 }
-
 .FluidSans {
 font-family: 'FluidSans';
     }
