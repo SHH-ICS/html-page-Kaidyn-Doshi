@@ -1,7 +1,8 @@
 @font-face {
 font-family: 'FluidSans';
-src: url('./FluidSans-Regular.ttf') format('truetypefont')
+src: url('./font/FluidSans-Regular.ttf') format('truetype')
 }
-.FluidSans {
-font-family: 'FluidSans';
-    }
+@font-face {
+    font-family: 'dmsans';
+    src: url(./font/DMSans-Regular.ttf) format('truetype');
+}
