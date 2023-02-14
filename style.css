@@ -5,6 +5,6 @@
   src: url('./font/FluidSans-Regular.ttf') format('truetype')
 }
 
-.fluid {
+.FluidSans {
   font-family: 'FluidSans';
 }
