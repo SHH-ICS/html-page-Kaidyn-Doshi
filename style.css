@@ -1,6 +1,6 @@
 @font-face {
-font-family: 'FluidSans';
-src: url('./font/FluidSans-Regular.ttf') format('truetype')
+    font-family: 'FluidSans';
+    src: url('./font/FluidSans-Regular.ttf') format('truetype')
 }
 @font-face {
     font-family: 'dmsans';
