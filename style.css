@@ -1,0 +1,10 @@
+
+
+@font-face {
+  font-family: 'FluidSans';
+  src: url('./font/FluidSans-Regular.ttf') format('truetype')
+}
+
+.fluid {
+  font-family: 'FluidSans';
+}
